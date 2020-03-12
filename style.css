@@ -1,8 +1,8 @@
 body {
-    color: green;
     background-color: yellow;
-    text-size: 100%;
     font-alignment: left;
-    font-family: 'satisfy', cursive;
-    margin:5em 50%;
+    color: pink;
+    font-family: 'Sacramento', cursive;
+    font-size: 200%;
+    margin:5em 25%;
 }
